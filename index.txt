@@ -1,2 +1,4 @@
-welcome to my project
 === HEADER ===
+welcome to my project
+=== FOOTER ===
+
